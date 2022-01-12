@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohan
-- 👀 I’m interested in Problem Solving and playing around with tools and technology 
+- 👀 Check out more of my projects <a href="https://github.com/MohanChhabaria">here</a> 
 
 <!---
 idontknowtocode/idontknowtocode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
